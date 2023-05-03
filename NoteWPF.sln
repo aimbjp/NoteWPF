@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteWPF", "NoteWPF.csproj", "{E25BE9F9-1477-46BF-A610-EE41E1D86802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E25BE9F9-1477-46BF-A610-EE41E1D86802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25BE9F9-1477-46BF-A610-EE41E1D86802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25BE9F9-1477-46BF-A610-EE41E1D86802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25BE9F9-1477-46BF-A610-EE41E1D86802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
